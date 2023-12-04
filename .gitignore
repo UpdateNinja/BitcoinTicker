@@ -1,0 +1,8 @@
+/.devcontainer
+/.vscode
+/build
+/CMakeLists.txt
+/Ideat.txt
+/pytest_http_request.py
+/sdkconfig.ci
+/sdkconfig.old
